@@ -1,0 +1,6 @@
+﻿
+TO DO:
+
+1. Read config from .json file (1)
+2. Create an event which writes the log array down into a file ()
+3. Create 2 async methods. Each of them creates 50 logs.
